@@ -151,6 +151,7 @@ private extension ContentView {
         let trailingItem = Button(action: { print("Trailing") }) {
             Image(systemName: "gear").imageScale(.large)
         }
+        
         return NavigationView {
             Image(systemName: "person.circle")
                 .navigationBarItems(leading: leadingItem, trailing: trailingItem)
