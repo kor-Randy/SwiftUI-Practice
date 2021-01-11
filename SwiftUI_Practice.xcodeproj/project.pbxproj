@@ -14,6 +14,7 @@
 		EB21421125AB4403001B7F86 /* Preview Assets.xcassets in Resources */ = {isa = PBXBuildFile; fileRef = EB21421025AB4403001B7F86 /* Preview Assets.xcassets */; };
 		EB21421425AB4403001B7F86 /* LaunchScreen.storyboard in Resources */ = {isa = PBXBuildFile; fileRef = EB21421225AB4403001B7F86 /* LaunchScreen.storyboard */; };
 		EB21421C25AB467A001B7F86 /* ListView.swift in Sources */ = {isa = PBXBuildFile; fileRef = EB21421B25AB467A001B7F86 /* ListView.swift */; };
+		EB21421E25AC6CEA001B7F86 /* User.swift in Sources */ = {isa = PBXBuildFile; fileRef = EB21421D25AC6CEA001B7F86 /* User.swift */; };
 /* End PBXBuildFile section */
 
 /* Begin PBXFileReference section */
@@ -26,6 +27,7 @@
 		EB21421325AB4403001B7F86 /* Base */ = {isa = PBXFileReference; lastKnownFileType = file.storyboard; name = Base; path = Base.lproj/LaunchScreen.storyboard; sourceTree = "<group>"; };
 		EB21421525AB4403001B7F86 /* Info.plist */ = {isa = PBXFileReference; lastKnownFileType = text.plist.xml; path = Info.plist; sourceTree = "<group>"; };
 		EB21421B25AB467A001B7F86 /* ListView.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = ListView.swift; sourceTree = "<group>"; };
+		EB21421D25AC6CEA001B7F86 /* User.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = User.swift; sourceTree = "<group>"; };
 /* End PBXFileReference section */
 
 /* Begin PBXFrameworksBuildPhase section */
@@ -66,6 +68,7 @@
 				EB21421525AB4403001B7F86 /* Info.plist */,
 				EB21420F25AB4403001B7F86 /* Preview Content */,
 				EB21421B25AB467A001B7F86 /* ListView.swift */,
+				EB21421D25AC6CEA001B7F86 /* User.swift */,
 			);
 			path = SwiftUI_Practice;
 			sourceTree = "<group>";
@@ -152,6 +155,7 @@
 				EB21421C25AB467A001B7F86 /* ListView.swift in Sources */,
 				EB21420825AB4401001B7F86 /* AppDelegate.swift in Sources */,
 				EB21420A25AB4401001B7F86 /* SceneDelegate.swift in Sources */,
+				EB21421E25AC6CEA001B7F86 /* User.swift in Sources */,
 				EB21420C25AB4401001B7F86 /* ContentView.swift in Sources */,
 			);
 			runOnlyForDeploymentPostprocessing = 0;
